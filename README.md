@@ -3,8 +3,9 @@ ThinkPHP扩展的为已经上传的图片自动添加【响应式】水印。 �
 
 具体介绍连接到：
 
-[ThinkPHP自动化为已经上传的图片添加「 响应式」水印(文件遍历部分) http://www.ptbird.cn/thinkphp-image-water-file/](http://www.ptbird.cn/thinkphp-image-water-file/)
+[ThinkPHP自动化为已经上传的图片添加「 响应式」水印(文件遍历部分) http://www.ptbird.cn/thinkphp-image-water-file/](http://www.ptbird.cn/thinkphp-image-water-file.html/)
 
-[ThinkPHP自动化为已经上传的图片添加「 响应式」水印(数据库字段部分) http://www.ptbird.cn/thinkphp-image-water-sql/](http://www.ptbird.cn/thinkphp-image-water-sql/)
+[ThinkPHP自动化为已经上传的图片添加「 响应式」水印(数据库字段部分) http://www.ptbird.cn/thinkphp-image-water-sql.html/](http://www.ptbird.cn/thinkphp-image-water-sql.html/)
 
-[TPImageWater(自动化响应式水印处理) 实际使用过程遇到的问题以及解决办法 http://www.ptbird.cn/tpimagewater-use-questions//](http://www.ptbird.cn/tpimagewater-use-questions//)
+[TPImageWater(自动化响应式水印处理) 实际使用过程遇到的问题以及解决办法 http://www.ptbird.cn/tpimagewater-use-questions.html//](http://www.ptbird.cn/tpimagewater-use-questions.html//)
+- 2017-04-08
