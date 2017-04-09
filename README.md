@@ -9,3 +9,4 @@ ThinkPHP扩展的为已经上传的图片自动添加【响应式】水印。 �
 
 [TPImageWater(自动化响应式水印处理) 实际使用过程遇到的问题以及解决办法 http://www.ptbird.cn/tpimagewater-use-questions.html//](http://www.ptbird.cn/tpimagewater-use-questions.html//)
 - 2017-04-08
+- 2017-04-09
